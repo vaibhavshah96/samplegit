@@ -1,2 +1,2 @@
-#MyApp
-YOLO
+# Trial
+Learning Git Commands
